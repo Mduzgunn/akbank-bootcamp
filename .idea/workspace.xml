@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf62436c-1402-44c6-a347-ce1da62a479f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week-2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/Villa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/src/main/java/org/md/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/src/main/java/org/md/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/src/main/java/org/md/domain/Villa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +54,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
@@ -96,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684167061799</updated>
-      <workItem from="1684167063009" duration="813000" />
+      <workItem from="1684167063009" duration="1639000" />
     </task>
     <servers />
   </component>

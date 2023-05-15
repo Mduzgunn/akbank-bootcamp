@@ -1,4 +1,4 @@
-package org.md.service;
+package org.md;
 
 import org.md.domain.House;
 
@@ -6,11 +6,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class HouseService {
+public class Service {
 
     private List<House> houseList;
 
-    public HouseService() {
+    public Service() {
         this.houseList = new ArrayList<>();
     }
 
